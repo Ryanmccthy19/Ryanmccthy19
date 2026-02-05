@@ -1,2 +1,0 @@
-Ryan McCarthy
-Northeastern University 2029
