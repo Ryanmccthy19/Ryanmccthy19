@@ -1,5 +1,5 @@
-## Hi there
-## Hello 👋
+# About
+First Year at Northeastern University studying Data Science and Finance with a Minor in Math.
 
 <!--
 **Ryanmccthy19/Ryanmccthy19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
