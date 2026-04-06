@@ -1,4 +1,4 @@
-# About
+# Ryan McCarthy
 First Year at Northeastern University studying Data Science and Finance with a Minor in Math.
 
 <!--
